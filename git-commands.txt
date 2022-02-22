@@ -18,3 +18,5 @@ git config for the first time
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 git config --list  - will give you configuration details
+
+THese are the git commandsgit status
